@@ -8,4 +8,4 @@ def factorial(n):
 # Example usage:
 print(factorial(5))
 
-#modified the code to include a loop-based implementation of factorial
+#Modified the code to show demo of Modification.
